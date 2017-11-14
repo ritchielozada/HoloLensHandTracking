@@ -22,6 +22,9 @@ sysinfo.txt
 /*.unityproj
 /*.booproj
 /WindowsStoreApp/
+/UWP
+/.pfx*
+
  
 # ============ #
 # OS generated #
